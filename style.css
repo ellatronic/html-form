@@ -13,7 +13,7 @@ body {
 
 form {
   max-width: 493.513px;
-  margin: 10.507px auto;
+  margin: 27.50px auto;
   padding: 10.507px 27.506px;
   background: #457B9D;
   border-radius: 6.494px;
@@ -23,6 +23,10 @@ h1 {
   margin: 0 0 17px 0;
   font-size: 2.618em;
   text-align: center;
+}
+
+#profile {
+  display: none;
 }
 
 input[type="text"],
@@ -112,3 +116,11 @@ label.light {
   }
 
 }*/
+
+
+
+
+
+
+
+
