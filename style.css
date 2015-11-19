@@ -109,13 +109,13 @@ label.light {
   border-radius: 100%;
 }
 
-/*@media screen and (min-width: 480px) {
+@media screen and (min-width: 480px) {
 
-  form {
+  .form {
     max-width: 480px;
   }
 
-}*/
+}
 
 
 
